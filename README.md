@@ -1,7 +1,7 @@
 # ReMinecraftPE
 
 This project aims to create a custom Minecraft experience based on Minecraft: Pocket Edition as of 2011. It's
-based on Minecraft PE v0.1.3.
+based on Minecraft PE v0.1.3
 
 **Its goals are:**
 * To add Quality-of-Life features to Minecraft: Pocket Edition, such as a brighter color gamut, an in-game
